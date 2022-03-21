@@ -9,4 +9,4 @@ https://arxiv.org/abs/2104.04029
 (The code is still getting updated. Check for the final version)
 
 
-![Teaser](teaser.png | width=100)
+![Teaser](teaser.png =250x250)
