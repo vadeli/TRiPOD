@@ -7,3 +7,6 @@ Vida Adeli, Mahsa Ehsanpour, Ian Reid, Juan Carlos Niebles, Silvio Savarese, Ehs
 https://arxiv.org/abs/2104.04029
 
 (The code is still getting updated. Check for the final version)
+
+
+![Teaser](teaser-final.pdf)
